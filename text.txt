@@ -1,0 +1,24 @@
+* first download jquery CDN
+    * headlines js
+ 
+ Animated Headlines | CodyHousehttps://codyhouse.co › demo › animated-headlines
+ 
+    for animating headlines
+ 
+ * ripples js
+        sirxemic/jquery.ripples: Add a water ripple effect to ... - GitHubhttps://github.com › sirxemic › jquery.ripples
+    for ripple effect
+
+ * isotope js
+    for image display and animation
+
+ * magnific popup 
+    for image pop
+
+*slick slider
+   *slick - the last carousel you'll ever need - Ken Wheelerhttps://kenwheeler.github.io › slick
+   for sliders
+
+
+   vid 5 30.23 mints
+   
